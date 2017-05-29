@@ -1,1 +1,2 @@
-git is good
+git is new lib
+my learn git
